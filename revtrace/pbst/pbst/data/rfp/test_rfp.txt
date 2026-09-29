@@ -1,0 +1,23 @@
+REQUEST FOR PROPOSAL
+
+The customer requires an AI-powered operational monitoring platform
+for open-cast mining operations.
+
+Requirements:
+
+1. The system must provide real-time monitoring of operational data.
+
+2. The system must use AI/ML techniques to identify operational risks.
+
+3. The system must provide a web-based dashboard for operators.
+
+4. The system must generate alerts when potential risks are detected.
+
+5. The system must integrate with existing systems through REST APIs.
+
+6. The solution must provide 24/7 on-site technical support.
+
+7. The solution must provide implementation and deployment support.
+
+8. The proposal must describe relevant previous experience in mining
+and operational monitoring.

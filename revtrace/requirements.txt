@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+requests
+streamlit
+python-dotenv
+groq
+hindsight-client
+python-docx
+pypdf
+PyMuPDF

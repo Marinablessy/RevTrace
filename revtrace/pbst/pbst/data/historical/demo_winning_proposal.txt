@@ -1,0 +1,34 @@
+HISTORICAL PROPOSAL — WON
+
+Customer Industry: Mining
+
+Customer Requirement:
+The customer required a real-time monitoring system for
+open-cast mining operations.
+
+Proposed Solution:
+Our organization proposed an AI-powered monitoring platform
+using sensor data, real-time analytics and a web dashboard.
+
+Capabilities Demonstrated:
+- Real-time monitoring
+- AI/ML-based analytics
+- Sensor data processing
+- Web dashboard
+- Alert generation
+- REST API integration
+
+Implementation:
+The system was designed to process incoming sensor data,
+identify operational risks and generate alerts for operators.
+
+Support:
+The proposal included remote technical support.
+
+Historical Outcome:
+WON
+
+Important Evidence:
+The proposal demonstrated previous experience with
+real-time monitoring, AI/ML analytics and dashboard-based
+operational visibility.

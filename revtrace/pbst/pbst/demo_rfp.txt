@@ -1,0 +1,23 @@
+ZenCloud Cloud Optimization Platform RFP
+
+Customer: ZenCloud
+
+ZenCloud is seeking a cloud optimization solution to reduce rising infrastructure costs.
+
+Requirements:
+
+1. The solution should provide visibility into cloud infrastructure usage and costs.
+
+2. The proposal should explain how cost optimization opportunities will be identified.
+
+3. The solution should include security and access-control considerations.
+
+4. The vendor should describe implementation and onboarding approach.
+
+5. The vendor should describe available customer support.
+
+6. The proposal should clearly state commercial terms.
+
+7. Any unsupported capability, certification, SLA, customer claim, performance result, or integration must be identified for human verification.
+
+8. Commercial terms must follow the terms approved during the commercial review process.

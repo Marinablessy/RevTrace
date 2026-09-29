@@ -1,0 +1,74 @@
+[
+  {
+    "prospect_id": "P001",
+    "industry": "FinTech",
+    "role": "CTO",
+    "company_size": "Mid-Market",
+    "pain_point": "High cloud infrastructure costs",
+    "message_angle": "Cost Efficiency",
+    "outcome": "MEETING_BOOKED"
+  },
+  {
+    "prospect_id": "P002",
+    "industry": "FinTech",
+    "role": "CTO",
+    "company_size": "Mid-Market",
+    "pain_point": "Cloud scalability",
+    "message_angle": "Cost Efficiency",
+    "outcome": "REPLIED"
+  },
+  {
+    "prospect_id": "P003",
+    "industry": "FinTech",
+    "role": "CTO",
+    "company_size": "Mid-Market",
+    "pain_point": "Infrastructure costs",
+    "message_angle": "Generic Product Features",
+    "outcome": "NO_RESPONSE"
+  },
+  {
+    "prospect_id": "P004",
+    "industry": "Healthcare",
+    "role": "CTO",
+    "company_size": "Enterprise",
+    "pain_point": "Data security",
+    "message_angle": "Security",
+    "outcome": "MEETING_BOOKED"
+  },
+  {
+    "prospect_id": "P005",
+    "industry": "Healthcare",
+    "role": "CTO",
+    "company_size": "Enterprise",
+    "pain_point": "Regulatory requirements",
+    "message_angle": "Compliance",
+    "outcome": "REPLIED"
+  },
+  {
+    "prospect_id": "P006",
+    "industry": "SaaS",
+    "role": "CFO",
+    "company_size": "Mid-Market",
+    "pain_point": "Operating cost",
+    "message_angle": "ROI",
+    "outcome": "MEETING_BOOKED"
+  },
+  {
+    "prospect_id": "P007",
+    "industry": "SaaS",
+    "role": "CFO",
+    "company_size": "Mid-Market",
+    "pain_point": "Budget pressure",
+    "message_angle": "Technical Features",
+    "outcome": "NO_RESPONSE"
+  },
+  {
+    "prospect_id": "P008",
+    "industry": "FinTech",
+    "role": "CTO",
+    "company_size": "Mid-Market",
+    "pain_point": "Cloud expenses",
+    "message_angle": "Cost Efficiency",
+    "outcome": "CONVERTED_TO_DEAL"
+  }
+]

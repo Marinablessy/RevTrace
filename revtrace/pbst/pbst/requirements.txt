@@ -1,0 +1,9 @@
+# Add project dependencies here as implementation details are decided.
+streamlit
+hindsight-client
+openai
+python-dotenv
+pypdf
+python-docx
+pandas
+requests
